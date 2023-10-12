@@ -10,7 +10,7 @@ There are lecture units and corresponding exercises with solutions for each part
 ## Table of content
 
 * Part 1 - Wikipedia
-  
+
   * [Lecture 1 - MediaWiki API](Part%201%20-%20Wikipedia/Lecture%201%20-%20MediaWiki%20API.ipynb)
   * [Lecture 2 - Python packages for Wikipedia](Part%201%20-%20Wikipedia/Lecture%202%20-%20Python%20packages%20for%20Wikipedia.ipynb)
   * [Exercise 1 - MediaWiki API](Part%201%20-%20Wikipedia/Exercise%201%20-%20MediaWiki%20API.ipynb), [solution](Part%201%20-%20Wikipedia/Exercise%201%20-%20MediaWiki%20API%20-%20solution.ipynb)
@@ -18,7 +18,7 @@ There are lecture units and corresponding exercises with solutions for each part
 
 * Part 2 - Static web scraping
 
-  * Lecture 1 TBA
+  * [Lecture 1](Part%202%20-%20Static%20web%20scraping/Lecture%201.ipynb)
   * [Lecture 2](Part%202%20-%20Static%20web%20scraping/Lecture%202.ipynb)
   * [Lecture 3](Part%202%20-%20Static%20web%20scraping/Lecture%203.ipynb)
   * [Exercise 1](Part%202%20-%20Static%20web%20scraping/Exercise%201.ipynb), [solution](Part%202%20-%20Static%20web%20scraping/Exercise%201%20solution.ipynb)
