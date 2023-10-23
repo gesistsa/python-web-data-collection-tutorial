@@ -18,9 +18,9 @@ There are lecture units and corresponding exercises with solutions for each part
 
 * Part 2 - Static web scraping
 
-  * [Lecture 1](Part%202%20-%20Static%20web%20scraping/Lecture%201.ipynb)
-  * [Lecture 2](Part%202%20-%20Static%20web%20scraping/Lecture%202.ipynb)
-  * [Lecture 3](Part%202%20-%20Static%20web%20scraping/Lecture%203.ipynb)
-  * [Exercise 1](Part%202%20-%20Static%20web%20scraping/Exercise%201.ipynb), [solution](Part%202%20-%20Static%20web%20scraping/Exercise%201%20solution.ipynb)
-  * [Exercise 2](Part%202%20-%20Static%20web%20scraping/Exercise%201.ipynb), [solution](Part%202%20-%20Static%20web%20scraping/Exercise%202%20solution.ipynb)
-  * [Exercise 3](Part%202%20-%20Static%20web%20scraping/Exercise%201.ipynb), [solution](Part%202%20-%20Static%20web%20scraping/Exercise%203%20solution.ipynb)
+  * [Lecture 1 - Static web scraping 1](Part%202%20-%20Static%20web%20scraping/Lecture%201%20-%20Static%20web%20scraping%201.ipynb)
+  * [Lecture 2 - Static web scraping 2](Part%202%20-%20Static%20web%20scraping/Lecture%202%20-%20Static%20web%20scraping%202.ipynb)
+  * [Lecture 3 - Static web scraping 3](Part%202%20-%20Static%20web%20scraping/Lecture%203%20-%20Static%20web%20scraping%203.ipynb)
+  * [Exercise 1 - Static web scraping 1](Part%202%20-%20Static%20web%20scraping/Exercise%201%20-%20Static%20web%20scraping%201.ipynb), [solution](Part%202%20-%20Static%20web%20scraping/Exercise%201%20-%20Static%20web%20scraping%201%20-%20solution.ipynb)
+  * [Exercise 2 - Static web scraping 2](Part%202%20-%20Static%20web%20scraping/Exercise%202%20-%20Static%20web%20scraping%202.ipynb), [solution](Part%202%20-%20Static%20web%20scraping/Exercise%202%20-%20Static%20web%20scraping%202%20-%20solution.ipynb)
+  * [Exercise 3 - Static web scraping 3](Part%202%20-%20Static%20web%20scraping/Exercise%203%20-%20Static%20web%20scraping%203.ipynb), [solution](Part%202%20-%20Static%20web%20scraping/Exercise%203%20-%20Static%20web%20scraping%203%20-%20solution.ipynb)
